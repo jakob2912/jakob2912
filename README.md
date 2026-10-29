@@ -12,6 +12,7 @@ Most of my day-to-day work runs through Claude Code: custom skills, subagents an
 
 **Featured**
 
+- [claude-premiere-pro-skills](https://github.com/jakob2912/claude-premiere-pro-skills): Claude Code plugin that lets Claude edit Reels, TikToks and Shorts in Adobe Premiere Pro, with a critic agent that reviews every cut until it scores 8/10. Skills, subagent, Python/ffmpeg pipeline, HyperFrames.
 - [kadenz](https://github.com/jakob2912/kadenz): training and nutrition coach as an installable web app, with its own MCP server for Claude. Next.js, TypeScript, Supabase, Vercel.
 
 **Stack**
